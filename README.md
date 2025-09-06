@@ -1,6 +1,10 @@
-# SWEN3.Sprint7
-## `http://localhost:8080/tickerq-dashboard`
+You need a key from [Google AI Studio](https://aistudio.google.com/app/apikey).  
+Add it in your `.env`. Done. gg  
 
-The Dashboard -> feelsgoodman
+## Local Services  
+- [http://localhost](http://localhost)  
+- [http://localhost:15672/](http://localhost:15672/)  
+  - **Login:** guest / guest  
 
-![TickerQ Dashboard](SWEN3.Sprint7/sprint7%201am.png)
+## SWEN3.Sprint5  
+![SWEN3.Sprint5](https://github.com/ANcpLua/SWEN3.Sprint5/blob/main/Sprin5.png)
