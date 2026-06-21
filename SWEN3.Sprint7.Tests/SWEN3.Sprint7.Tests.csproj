@@ -11,7 +11,7 @@
         <PackageReference Include="coverlet.collector" Version="6.0.4"/>
         <PackageReference Include="FluentAssertions" Version="8.6.0"/>
         <PackageReference Include="MartinCostello.Logging.XUnit.v3" Version="0.6.0"/>
-        <PackageReference Include="Microsoft.Extensions.Diagnostics.Testing" Version="10.0.0-alpha.1.25208.3"/>
+        <PackageReference Include="Microsoft.Extensions.Diagnostics.Testing" Version="10.7.0"/>
         <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.15.0-preview-25259-101"/>
         <PackageReference Include="xunit.runner.visualstudio" Version="3.1.4">
             <PrivateAssets>all</PrivateAssets>
@@ -19,9 +19,9 @@
         </PackageReference>
         <PackageReference Include="xunit.v3" Version="3.0.1"/>
         <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.2"/>
-        <PackageReference Include="Microsoft.Extensions.Options" Version="10.0.0-rc.2.25454.107"/>
+        <PackageReference Include="Microsoft.Extensions.Options" Version="10.0.9"/>
         <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="10.0.9"/>
-        <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="10.0.0-preview.7.25380.108"/>
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="10.0.9"/>
         <PackageReference Include="Testcontainers.PostgreSql" Version="4.7.0"/>
         <PackageReference Include="System.Security.Cryptography.Xml" Version="9.0.17"/>
     </ItemGroup>
